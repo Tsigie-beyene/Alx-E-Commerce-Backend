@@ -138,8 +138,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author
 Tsigie Beyene
 Backend Developer | ALX Fellow
 GitHub: @Tsigie-beyene
-
+---
