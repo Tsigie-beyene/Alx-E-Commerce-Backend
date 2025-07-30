@@ -139,7 +139,8 @@ pip install -r requirements.txt
 ```
 ---
 ## 👨‍💻 Author
-Tsigie Beyene
+# Tsigie Beyene
+
 Backend Developer | ALX Fellow
 GitHub: @Tsigie-beyene
 
