@@ -131,15 +131,15 @@ Hosted on **Render** (or other service). Includes:
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/ecommerce-backend.git
-cd ecommerce-backend
+git clone https://github.com/Tsigie-beyene/Alx-Ecommerce-Backend.git
+cd Alx-Ecommerce-Backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 ---
 ## 👨‍💻 Author
-# Tsigie Beyene
+## Tsigie Beyene
 
 Backend Developer | ALX Fellow
 GitHub: @Tsigie-beyene
