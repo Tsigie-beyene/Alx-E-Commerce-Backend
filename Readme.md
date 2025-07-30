@@ -136,7 +136,10 @@ cd ecommerce-backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+---
 👨‍💻 Author
 Tsigie Beyene
 Backend Developer | ALX Fellow
 GitHub: @Tsigie-beyene
+----
