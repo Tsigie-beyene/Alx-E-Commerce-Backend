@@ -50,7 +50,7 @@ This project is part of the **ALX ProDev Backend Graduation Project** and is als
 ### 🏷️ Category
 - `id`, `name`, `slug`, `created_at`
 
-ERD link: [📄 View ERD Diagram](https://your-erd-link.com)
+ERD link: [📄 View ERD Diagram](https://tsigie-erd-link.com)
 
 ---
 
@@ -67,7 +67,7 @@ ERD link: [📄 View ERD Diagram](https://your-erd-link.com)
 
 Auto-generated using **Swagger**.
 
-> 📍 Hosted Swagger URL: [https://your-live-domain.com/swagger/](https://your-live-domain.com/swagger/)
+> 📍 Hosted Swagger URL: [https://your-live-domain.com/swagger/](https://tsigie-live-tsigiebeyene.com/swagger/)
 
 You can interact with all API endpoints and view schema directly from this interface.
 
@@ -110,14 +110,14 @@ You can interact with all API endpoints and view schema directly from this inter
 
 ## 📺 Demo & Presentation
 
-- 🎬 Demo Video: [YouTube or Drive Link](https://your-demo-video-link.com)
-- 📊 Slide Deck: [Google Slides](https://your-slide-deck-link.com)
+- 🎬 Demo Video: [YouTube or Drive Link](https://tsigie-demo-video-link.com)
+- 📊 Slide Deck: [Google Slides](https://tsigie-slide-deck-link.com)
 
 ---
 
 ## 🌐 Deployment
 
-> Live API Base URL: [https://your-live-domain.com/api/](https://your-live-domain.com/api/)
+> Live API Base URL: [https://your-live-domain.com/api/](https://tsigie-live-domain.com/api/)
 
 Hosted on **Render** (or other service). Includes:
 - Auto migrations on deploy
