@@ -67,7 +67,7 @@ ERD link: [📄 View ERD Diagram](https://tsigie-erd-link.com)
 
 Auto-generated using **Swagger**.
 
-> 📍 Hosted Swagger URL: [https://your-live-domain.com/swagger/](https://tsigie-live-tsigiebeyene.com/swagger/)
+> 📍 Hosted Swagger URL: [https://tsigie-live-domain.com/swagger/](https://tsigie-live-tsigiebeyene.com/swagger/)
 
 You can interact with all API endpoints and view schema directly from this interface.
 
