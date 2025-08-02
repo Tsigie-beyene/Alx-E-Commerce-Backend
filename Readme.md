@@ -34,7 +34,7 @@ This project is part of the **ALX ProDev Backend Graduation Project** and is als
 | Auth        | JWT (`djangorestframework-simplejwt`) |
 | Docs        | Swagger (`drf-yasg`)   |
 | Deployment  | Render (or any cloud host) |
-| Others      | CORS, Environment Variables, Postman |
+| Others      | Environment Variables, Postman |
 
 ---
 
