@@ -41,8 +41,8 @@ A robust, scalable Django REST API for managing an e-commerce product catalog wi
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd Alx-E-Commerce-Backend
+git clone https://github.com/Tsigie-beyene/E-Commerce-Backend
+cd E-Commerce-Backend
 ```
 
 ### 2. Create Virtual Environment
